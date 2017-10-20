@@ -15,5 +15,5 @@ Run the PHP conversion script:
 Build the mkdocs website:  
 `mkdocs build`  
 
-Build and serve the mkdocs website locally (open 127.0.0.1:8000):
+Build and serve the mkdocs website locally (open 127.0.0.1:8000):  
 `mkdocs serve`  
